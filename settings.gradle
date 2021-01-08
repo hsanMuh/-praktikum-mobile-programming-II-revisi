@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Praktikum-mobile-programming-2-revisi"
